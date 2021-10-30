@@ -5,7 +5,7 @@ author_profile: true
 title: "Privacy Policy"
 header:
   # overlay_image: /images/cyber-security-gdpr-mod-1.jpg
-  image: /images/cyber-security-gdpr-mod-1.jpg
+  image: /assets/images/cyber-security-gdpr-mod-1.jpg
   caption: "Image by: [**TheDigitalArtist**](https://pixabay.com/users/TheDigitalArtist-202249/)"
 ---
 This privacy policy ("policy") will help you understand how Github and Kenny Bazile-Octuvon ("us", "we", "our") use and protect the data you provide to us when you visit and use [kboct.github.io](https://kboct.github.io) ("website").

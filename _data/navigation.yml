@@ -7,41 +7,42 @@ main:
     url: /tags/
   - title: "Le Club"
     url: /about/
+  - title: "Politique de confidentialité"
+    url: /privacy-policy/
+    
     
 docs:
   - title: "Notre club"
     children:
-      - title: "Quick-Start Guide"
+      - title: "Nous connaître"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Le comité"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "L'encadrement"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "Les adhésions"
+        url: /docs/upgrading/
+      - title: "Nous contacter"
+        url: /docs/upgrading/
+      - title: "Liens utiles"
         url: /docs/upgrading/
   - title: "La vie du club"
     children:
-      - title: "Configuration"
+      - title: "Les concours"
         url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
+      - title: "Journal des Truffes"
         url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
+      - title: "La vie sur le terrain"
         url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
   - title: "Nos activités"
     children:
-      - title: "Working with Posts"
+      - title: "Le clicker"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "L'école du chiot"
         url: /docs/pages/
-      - title: "Working with Collections"
+      - title: "L'éducation canine"
         url: /docs/collections/
-      - title: "Helpers"
+      - title: "L'agility"
         url: /docs/helpers/
-      - title: "Utility Classes"
+      - title: "L'obé rythmée"
         url: /docs/utility-classes/

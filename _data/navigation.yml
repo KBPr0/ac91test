@@ -1,6 +1,6 @@
 main:
   - title: "Accueil"
-    url: /blog/welcome-to-jekyll/
+    url: /
   - title: "Contact"
     url: /posts/
   - title: "Horaires"

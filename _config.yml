@@ -112,24 +112,24 @@ footer:
       
       
 # Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+  # docs:
+    # output: true
+    # permalink: /:collection/:path/
+  # recipes:
+    # output: true
+    # permalink: /:collection/:path/
+  # pets:
+    # output: true
+    # permalink: /:collection/:path/
+  # portfolio:
+    # output: true
+    # permalink: /:collection/:path/
 
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single

@@ -1,11 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Accueil"
     url: /posts/
-  - title: "Categories"
+  - title: "Contact"
     url: /categories/
-  - title: "Tags"
+  - title: "Horaires"
     url: /tags/
-  - title: "About"
+  - title: "Le Club"
     url: /about/
     
 docs:

@@ -9,7 +9,7 @@ main:
     url: /about/
     
 docs:
-  - title: Getting Started
+  - title: "Notre club"
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -19,7 +19,7 @@ docs:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
-  - title: Customization
+  - title: "La vie du club"
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -33,7 +33,7 @@ docs:
         url: /docs/authors/
       - title: "Layouts"
         url: /docs/layouts/
-  - title: Content
+  - title: "Nos activités"
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -45,22 +45,3 @@ docs:
         url: /docs/helpers/
       - title: "Utility Classes"
         url: /docs/utility-classes/
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
-        

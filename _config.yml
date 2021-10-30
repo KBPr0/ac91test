@@ -59,8 +59,8 @@ plugins:
 
 author:
   # name   : "Amicale Canine 91"
-  avatar : "/assets/images/logo-ac91.jpg"
-  bio    : "L'Amicale Canine 91 est une association loi 1901 composée essentiellement de bénévoles."
+  # avatar : "/assets/images/logo-ac91.jpg"
+  # bio    : "L'Amicale Canine 91 est une association loi 1901 composée essentiellement de bénévoles."
   # links:
     # - label: "Website"
       # icon: "fas fa-fw fa-link"

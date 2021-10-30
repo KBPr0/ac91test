@@ -2,7 +2,7 @@ main:
   - title: "Accueil"
     url: /blog/welcome-to-jekyll/
   - title: "Contact"
-    url: /categories/
+    url: /posts/
   - title: "Horaires"
     url: /tags/
   - title: "Le Club"

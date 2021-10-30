@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: https://kbpr0.github.io/ac91test/
+permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"

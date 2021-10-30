@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - update
   
-sidebar-sample:
+sidebar:
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"

@@ -21,7 +21,7 @@ feature_row:
     excerpt: "Selon les dernières directives de la Préfecture de l'Essonne et de la mairie..."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Lire la suite"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"

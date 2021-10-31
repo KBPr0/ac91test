@@ -22,13 +22,6 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Lire la suite"
-  - image_path: /assets/images/dressage-chiot.jpg
-    alt: "reouverture chiots"
-    title: "Réouverture des inscriptions chiots"
-    excerpt: "Pour une demande d'inscription veuillez adresser un mail dans l'onglet Nous contacter..."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Lire la suite"
   - image_path: /assets/images/3474.jpg
     alt: "information agility"
     title: "Information Agility"
@@ -36,6 +29,13 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Lire la suite"     
+  - image_path: /assets/images/dressage-chiot.jpg
+    alt: "reouverture chiots"
+    title: "Réouverture des inscriptions chiots"
+    excerpt: "Pour une demande d'inscription veuillez adresser un mail dans l'onglet Nous contacter..."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Lire la suite"
   - image_path: /assets/images/orangette.jpg
     alt: "orangette dog dancing "
     title: "Orangette au Concours de Dog Dancing "

@@ -15,10 +15,10 @@ sidebar:
   nav: "docs"
 
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/pass_sanitaire.jpg
+    alt: "pass_sanitaire"
+    title: "Pass Sanitaire Obligatoire"
+    excerpt: "Selon les dernières directives de la Préfecture de l'Essonne et de la mairie..."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

@@ -28,21 +28,21 @@ feature_row:
     excerpt: "Pour une demande d'inscription veuillez adresser un mail dans l'onglet Nous contacter..."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    btn_label: "Lire la suite"
+  - image_path: /assets/images/3474.jpg
+    alt: "information agility"
+    title: "Information Agility"
+    excerpt: "La section Agility est complète. Les disciplines proposées au sein du club seront..."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"     
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    btn_label: "Lire la suite"     
+  - image_path: /assets/images/orangette.jpg
+    alt: "orangette dog dancing "
+    title: "Orangette au Concours de Dog Dancing "
+    excerpt: "Bonjour à toutes les truffes,   Je m’appelle Orangette Espiègle et j’ai participé..."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "Lire la suite"  
 ---
 {% include feature_row %}
 

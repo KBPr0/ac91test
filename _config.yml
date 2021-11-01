@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-minimal_mistakes_skin    : "neon" # "default", "aqua", "air", "dark", "mint", "plum", "contrast", "sunrise", "dirt"
+minimal_mistakes_skin    : "mint" # "default", "aqua", "air", "dark", "plum", "contrast", "sunrise", "dirt", "neon"
 remote_theme             : "mmistakes/minimal-mistakes@4.9.0"
 #remote_theme             : benbalter/retlab
 

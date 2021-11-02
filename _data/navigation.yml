@@ -15,34 +15,34 @@ docs:
   - title: "Notre club"
     children:
       - title: "Nous connaître"
-        url: /docs/quick-start-guide/
+        url: /notre-club/
       - title: "Le comité"
-        url: /docs/structure/
+        url: /le-comite/
       - title: "L'encadrement"
-        url: /docs/installation/
+        url: /encadrement/
       - title: "Les adhésions"
-        url: /docs/upgrading/
+        url: /tarifs-adhesions/
       - title: "Nous contacter"
-        url: /docs/upgrading/
+        url: /contact/
       - title: "Liens utiles"
-        url: /docs/upgrading/
+        url: /liens-utiles/
   - title: "La vie du club"
     children:
       - title: "Les concours"
-        url: /docs/configuration/
+        url: /concours/
       - title: "Journal des Truffes"
-        url: /docs/overriding-theme-defaults/
+        url: /journal-des-truffes/
       - title: "La vie sur le terrain"
-        url: /docs/navigation/
+        url: /la-vie-sur-le-terrrain/
   - title: "Nos activités"
     children:
       - title: "Le clicker"
-        url: /docs/posts/
+        url: /clicker/
       - title: "L'école du chiot"
-        url: /docs/pages/
+        url: /ecole-chiot/
       - title: "L'éducation canine"
-        url: /docs/collections/
+        url: /education/
       - title: "L'agility"
-        url: /docs/helpers/
+        url: /agility/
       - title: "L'obé rythmée"
-        url: /docs/utility-classes/
+        url: /dog-dancing/

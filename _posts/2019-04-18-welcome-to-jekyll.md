@@ -70,6 +70,6 @@ gallery:
     alt: "placeholder image 1"
     title: "Image 1 title caption"    
 ---
-{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 {% include feature_row %}
 

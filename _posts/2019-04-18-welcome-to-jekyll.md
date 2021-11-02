@@ -47,7 +47,23 @@ gallery:
   - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 {% include feature_row %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 

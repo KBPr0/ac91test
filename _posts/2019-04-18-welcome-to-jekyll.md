@@ -47,19 +47,19 @@ gallery:
   - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+  - image_path: /assets/images/gallery/07-DSC01358.JPG
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+  - image_path: /assets/images/gallery/educ_05_au_club_01343.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+  - image_path: /assets/images/gallery/danette_4.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+  - image_path: /assets/images/gallery/LOGO.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+  - image_path: /assets/images/gallery/0145.JPG
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---

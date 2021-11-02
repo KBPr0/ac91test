@@ -16,13 +16,30 @@ sidebar:
   nav: "docs"
 ---
 
-# Titre
+# Qui sommes nous ?
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg){: .align-left} The rest of this paragraph is filler for the sake of 
-seeing the text wrap around the 150×150 image, which is left aligned.As you can see there should be some space above, below, and to the right of the image. 
-The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. 
-Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image 
-down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg){: .align-left} L'Amicale Canine 91 est une association loi 1901 
+composée essentiellement de bénévoles.
+Pour consulter nos statuts : <!-- link --> cliquer ici <!-- link -->
+Voir notre réglement interieur : <!-- link --> cliquer ici <!-- link -->
+
+# Nos activités
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg){: .align-left} L'essentiel de nos activités repose sur l'éducation 
+par les méthodes positives axées sur Le Clicker Training. A l'école du chiot nous accueillons les chiots à partir de 2 mois et jusqu'à 4 mois et demi. 
+L'agility et l'obé Rythmée font partie intégrante de notre éducation.
+
+# Quand sommes nous ouverts ?
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg){: .align-left} Le club est ouvert de septembre à juin, le samedi 
+après-midi pour l'ensemble des cours. Renseignements et accueil des nouveaux membres le samedi à 15 heures.
+<!-- link --> Détail des horaires <!-- link -->
+
+# Qui peut s'inscrire ?
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg){: .align-left} Nous accueillons,
+en priorité, tous les chiots agés de 2 à 4 mois et demi à la date de leur adhésion.  Une exception est faite pour les habitants de SAINT-VRAIN 
+(après un test fait par les moniteurs du Club)
 
 ## Sous-titre
 

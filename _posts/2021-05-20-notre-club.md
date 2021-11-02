@@ -30,8 +30,6 @@ Texte
 
 ### Sous sous-titre
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/example.jpg)
-{:class="img-responsive"}
 
 
 

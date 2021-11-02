@@ -44,5 +44,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lire la suite"  
 ---
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 {% include feature_row %}
 

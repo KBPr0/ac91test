@@ -44,9 +44,9 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lire la suite"  
 gallery:
-  - url: "/docs/configuration/"
-	image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
     alt: "placeholder image 1"
+	url: "/docs/configuration/"
     #title: "Image 1 title caption"
 ---
 

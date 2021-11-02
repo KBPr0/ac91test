@@ -44,7 +44,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lire la suite"  
 gallery:
-  - url: /assets/images/gallery/07-DSC01358.JPG
+  - url: "/docs/configuration/"
     image_path: /assets/images/gallery/07-DSC01358.JPG
     alt: "placeholder image 1"
     title: "Image 1 title caption"

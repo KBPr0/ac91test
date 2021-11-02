@@ -2,7 +2,7 @@
 title: "Accueil"
 date: 2019-04-18T15:34:30-04:00
 layout: home
-classes: wide
+#classes: wide
 permalink: /
 #categories:
 #  - blog
@@ -70,6 +70,6 @@ gallery:
     title: "dog-dancing"
 ---
 
-{% include feature_row layout="half" %}
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include feature_row %}
+{% include gallery %}
 

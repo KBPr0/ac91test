@@ -41,12 +41,12 @@ après-midi pour l'ensemble des cours. Renseignements et accueil des nouveaux me
 en priorité, tous les chiots agés de 2 à 4 mois et demi à la date de leur adhésion.  Une exception est faite pour les habitants de SAINT-VRAIN 
 (après un test fait par les moniteurs du Club)
 
-## Sous-titre
+<!-- ## Sous-titre
 
 Texte
 
 ### Sous sous-titre
-
+ -->
 
 
 

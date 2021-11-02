@@ -44,7 +44,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lire la suite"  
 	
-gallery:
+<!-- gallery:
   - url: /assets/images/gallery/o_chelsea_clicker.jpg
     image_path: /assets/images/gallery/o_chelsea_clicker.jpg
     alt: "placeholder image 1"
@@ -68,7 +68,7 @@ gallery:
   - url: /assets/images/gallery/o_chelsea_clicker.jpg
     image_path: /assets/images/gallery/o_chelsea_clicker.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"    
+    title: "Image 1 title caption"   -->  
 ---
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 {% include feature_row %}

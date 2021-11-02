@@ -44,10 +44,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lire la suite"  
 gallery:
-  - image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+  - url: "/docs/configuration/"
+	image_path: /assets/images/gallery/o_chelsea_clicker.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-	url: "/docs/configuration/"
+    #title: "Image 1 title caption"
   - image_path: /assets/images/gallery/07-DSC01358.JPG
     alt: "placeholder image 2"
     title: "Image 2 title caption"

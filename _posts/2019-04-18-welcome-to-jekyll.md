@@ -44,30 +44,30 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lire la suite"  
 gallery:
-  - url: "/docs/configuration/"
+  - url: "/clicker/"
+    image_path: /assets/images/gallery/o_chelsea_clicker.jpg
+    alt: "clicker"
+    title: "clicker"
+  - url: "/ecole-chiot/"
     image_path: /assets/images/gallery/07-DSC01358.JPG
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: "/docs/configuration/"
-    image_path: /assets/images/gallery/07-DSC01358.JPG
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: "/docs/configuration/"
+    alt: "ecole-chiot"
+    title: "ecole-chiot"
+  - url: "/education/"
     image_path: /assets/images/gallery/educ_05_au_club_01343.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: "/docs/configuration/"
+    alt: "education"
+    title: "education"
+  - url: "/agility/"
     image_path: /assets/images/gallery/danette_4.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: "/docs/configuration/"
+    alt: "agility"
+    title: "agility"
+  - url: "/contact/"
     image_path: /assets/images/gallery/LOGO.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: "/docs/configuration/"
+    alt: "contact"
+    title: "contact"
+  - url: "/dog-dancing/"
     image_path: /assets/images/gallery/0145.JPG
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "dog-dancing"
+    title: "dog-dancing"
 ---
 
 {% include feature_row %}

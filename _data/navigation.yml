@@ -2,11 +2,11 @@ main:
   - title: "Accueil"
     url: /
   - title: "Contact"
-    url: /posts/
+    url: /contact/
   - title: "Horaires"
-    url: /tags/
+    url: /horaires/
   - title: "Le Club"
-    url: /about/
+    url: /notre-club/
   - title: "Politique de confidentialité - Règlement Général sur la Protection des Données"
     url: /privacy-policy/
     

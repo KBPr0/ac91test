@@ -70,6 +70,6 @@ gallery:
     title: "dog-dancing"
 ---
 
-{% include feature_row class="full" %}
+{% include gallery id="feature_row" class="full" %}
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 

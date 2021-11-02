@@ -2,7 +2,7 @@
 title: "Notre club"
 date: 2021-05-20
 permalink: /notre-club/
-<!-- # categories: 
+# categories: 
 # tags: 
 # header:
 #   image: ""
@@ -11,7 +11,7 @@ permalink: /notre-club/
 # toc: true
 # toc_label: ""
 # toc_icon: "list-ul"  # corresponding Font Awesome icon name (without fa prefix)
-# toc_sticky: true -->
+# toc_sticky: true
 sidebar:
   nav: "docs"
 ---

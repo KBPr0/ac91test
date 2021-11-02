@@ -48,21 +48,6 @@ gallery:
 	image_path: /assets/images/gallery/o_chelsea_clicker.jpg
     alt: "placeholder image 1"
     #title: "Image 1 title caption"
-  - image_path: /assets/images/gallery/07-DSC01358.JPG
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - image_path: /assets/images/gallery/educ_05_au_club_01343.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - image_path: /assets/images/gallery/danette_4.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - image_path: /assets/images/gallery/LOGO.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
-  - image_path: /assets/images/gallery/0145.JPG
-    alt: "placeholder image 6"
-    title: "Image 6 title caption"
 ---
 
 {% include feature_row %}

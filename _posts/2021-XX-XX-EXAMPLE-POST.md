@@ -1,7 +1,8 @@
 ---
 title: "Grand Titre"
 date: 2021-01-17
-<!-- # categories: 
+permalink: /lien/
+# categories: 
 # tags: 
 # header:
 #   image: ""
@@ -10,7 +11,9 @@ date: 2021-01-17
 # toc: true
 # toc_label: ""
 # toc_icon: "list-ul"  # corresponding Font Awesome icon name (without fa prefix)
-# toc_sticky: true -->
+# toc_sticky: true
+sidebar:
+  nav: "docs"
 ---
 
 # Titre

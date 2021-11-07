@@ -2,6 +2,7 @@
 title: "Encadrement"
 date: 2021-01-17
 permalink: /encadrement/
+classes: wide
 # categories: 
 # tags: 
 # header:

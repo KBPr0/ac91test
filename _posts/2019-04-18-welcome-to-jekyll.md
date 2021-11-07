@@ -48,7 +48,6 @@ gallery:
     image_path: /assets/images/gallery/o_chelsea_clicker.jpg
     alt: "clicker"
     title: "clicker"
-	excerpt: "clicker"
   - url: "/ecole-chiot/"
     image_path: /assets/images/gallery/07-DSC01358.JPG
     alt: "ecole-chiot"

@@ -15,13 +15,9 @@ classes: wide
 # toc_sticky: true
 sidebar:
   nav: "docs"
-  
-adhesions:
-  - image_path: /assets/images/tarifs.png
-    alt: "adhesions"
-    title: "adhesions"
 ---
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/tarifs.png)
+{:class="img-responsive"}
 
-{% include gallery id="adhesions" layout="half" %}
 
 

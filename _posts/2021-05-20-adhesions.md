@@ -1,6 +1,6 @@
 ---
 title: "Montant des adhésions à l'amicale canine 91"
-date: 2021-05-20
+date: 2021-11-19
 permalink: /tarifs-adhesions/
 classes: wide
 # categories: 
@@ -20,4 +20,17 @@ sidebar:
 {:class="img-responsive"}
 
 
+
+
+Les concours
+Journal des Truffes
+La vie sur le terrain
+
+Nos activités
+
+Le clicker
+L'école du chiot
+L'éducation canine
+L'agility
+L'obé rythmée
 

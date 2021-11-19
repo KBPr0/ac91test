@@ -18,19 +18,3 @@ sidebar:
 ---
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/tarifs.png)
 {:class="img-responsive"}
-
-
-
-
-Les concours
-Journal des Truffes
-La vie sur le terrain
-
-Nos activités
-
-Le clicker
-L'école du chiot
-L'éducation canine
-L'agility
-L'obé rythmée
-

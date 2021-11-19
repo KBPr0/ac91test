@@ -16,21 +16,12 @@ classes: wide
 sidebar:
   nav: "docs"
   
-comite:
-  - image_path: /assets/images/comite/comi1.png
-    alt: "comité 1"
-    title: "comité"
-  - image_path: /assets/images/comite/comi2.png
-    alt: "comité 2"
-    title: "comité"
-  - image_path: /assets/images/comite/comi3.png
-    alt: "comité 3"
-    title: "comité"
-  - image_path: /assets/images/comite/comi4.png
-    alt: "comité 4"
-    title: "comité"
+adhesions:
+  - image_path: /assets/images/tarifs.png
+    alt: "adhesions"
+    title: "adhesions"
 ---
 
-{% include gallery id="comite" layout="half" %}
+{% include gallery id="adhesions" layout="half" %}
 
 

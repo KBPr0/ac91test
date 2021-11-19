@@ -2,7 +2,6 @@
 title: "Notre club"
 date: 2021-05-20
 permalink: /notre-club/
-classes: wide
 # categories: 
 # tags: 
 # header:
@@ -17,7 +16,7 @@ sidebar:
   nav: "docs"
 ---
 
-* Qui sommes nous ? *
+## Qui sommes nous ?
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/notre-club-1.jpg){: .align-left} L'Amicale Canine 91 est une association loi 1901 
 composée essentiellement de bénévoles.

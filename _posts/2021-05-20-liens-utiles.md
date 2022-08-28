@@ -22,7 +22,7 @@ sidebar:
 <h3 class="no_toc"><i class="fas fa-building"></i> Mairie de Saint-Vrain</h3>
 <br>
 <br>
-[Accéder](#"http://www.saint-vrain91.fr/"){: .btn .btn--inverse}
+[Accéder](http://www.saint-vrain91.fr/){: .btn .btn--inverse}
 
 </div>
 

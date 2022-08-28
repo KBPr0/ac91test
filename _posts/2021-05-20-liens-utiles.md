@@ -74,7 +74,8 @@ sidebar:
 <div class="notice" markdown="1">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/royalcanin.jpg){: .align-left} 
 <h3 class="no_toc">Royal Canin</h3>
-
+<br>
+<br>
 [Accéder](http://www.royalcanin.fr/){: .btn .btn--inverse}
 <br>
 

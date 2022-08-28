@@ -27,20 +27,5 @@ sidebar:
 </div>
 
 
-<div class="notice" markdown="1">
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/mairie.png){: .align-left} 
-<h3 class="no_toc"><i class="fas fa-lightbulb"></i> Mairie de Saint-Vrain</h3>
-<br>
-<br>
-<br>
-<br>
-
-[Accéder](#http://www.saint-vrain91.fr/){: .btn .btn--primary} 
-[Accéder](#http://www.saint-vrain91.fr/){: .btn .btn--large}
-
-</div>
-
-
 
 

@@ -31,6 +31,8 @@ composée essentiellement de bénévoles.
 <br>
 Pour consulter nos statuts : [cliquer ici]({{ site.url }}{{ site.baseurl }}/assets/statuts-ac91-definitif-avril2016.pdf) <br>
 Voir notre réglement interieur : [cliquer ici]({{ site.url }}{{ site.baseurl }}/assets/Reglement-interieur-ac91-definitif-avril2016.pdf)
+<br>
+<br>
 
 </div>
 

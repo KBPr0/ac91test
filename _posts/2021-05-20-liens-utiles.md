@@ -76,7 +76,6 @@ sidebar:
 <h3 class="no_toc">Royal Canin</h3>
 <br>
 <br>
-<br>
 
 [Accéder](http://www.royalcanin.fr/){: .btn .btn--inverse .btn--large}
 <br>

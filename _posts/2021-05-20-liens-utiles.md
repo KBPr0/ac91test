@@ -23,7 +23,7 @@ sidebar:
 <br>
 <br>
 <br>
-[Accéder](http://www.saint-vrain91.fr/){: .btn .btn--inverse}
+[Accéder](http://www.saint-vrain91.fr/){: .btn .btn--inverse .btn--large}
 <br>
 
 </div>
@@ -36,7 +36,7 @@ sidebar:
 <br>
 <br>
 <br>
-[Accéder](http://www.scc.asso.fr/){: .btn .btn--inverse}
+[Accéder](http://www.scc.asso.fr/){: .btn .btn--inverse .btn--large}
 <br>
 
 </div>
@@ -45,7 +45,7 @@ sidebar:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/scif.jpg){: .align-left} 
 <h3 class="no_toc">Société canine de l'Île-de-France</h3>
 <br>
-[Accéder](http://www.sc-if.org/){: .btn .btn--inverse}
+[Accéder](http://www.sc-if.org/){: .btn .btn--inverse .btn--large}
 <br>
 
 </div>
@@ -56,7 +56,7 @@ sidebar:
 <br>
 <br>
 <br>
-[Accéder](http://www.activites-canines.com/){: .btn .btn--inverse}
+[Accéder](http://www.activites-canines.com/){: .btn .btn--inverse .btn--large}
 <br>
 
 </div>
@@ -66,7 +66,7 @@ sidebar:
 <h3 class="no_toc">Fédération Cynologique Internationale</h3>
 <br>
 
-[Accéder](https://www.fci.be/fr/){: .btn .btn--inverse}
+[Accéder](https://www.fci.be/fr/){: .btn .btn--inverse .btn--large}
 <br>
 
 </div>
@@ -76,7 +76,9 @@ sidebar:
 <h3 class="no_toc">Royal Canin</h3>
 <br>
 <br>
-[Accéder](http://www.royalcanin.fr/){: .btn .btn--inverse}
+<br>
+
+[Accéder](http://www.royalcanin.fr/){: .btn .btn--inverse .btn--large}
 <br>
 
 </div>

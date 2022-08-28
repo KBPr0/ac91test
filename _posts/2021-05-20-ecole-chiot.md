@@ -35,7 +35,7 @@ on ignore les mauvais comportements (pas de pénalisation de la bêtise) et
 on récompense ce qui est bien. Dès les premières leçons, le chiot aura compris :
 "J'ai bien travaillé, je suis récompensé".<br>
 
-<figure style="width: 300px">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ecole-chiot2.jpg" alt="">
 </figure> 
 

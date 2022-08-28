@@ -41,8 +41,8 @@ Détail des horaires : [cliquer ici]({{ site.url }}{{ site.baseurl }}/horaires/)
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/notre-club-4.jpg){: .align-left} Nous accueillons,
 en priorité, tous les chiots agés de 2 à 4 mois et demi à la date de leur adhésion.  Une exception est faite pour les habitants de SAINT-VRAIN 
-(après un test fait par les moniteurs du Club)
-
+(après un test fait par les moniteurs du Club)<br>
+<br>
 ## Localisation
 
 Notre terrain se situe : 	- lieu dit de la Feularde

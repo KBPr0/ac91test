@@ -2,6 +2,7 @@
 title: "Notre club"
 date: 2021-05-20
 permalink: /notre-club/
+classes: wide
 # categories: 
 # tags: 
 # header:
@@ -43,10 +44,12 @@ en priorité, tous les chiots agés de 2 à 4 mois et demi à la date de leur ad
 
 ## Localisation
 Notre terrain se situe :
-lieu dit de la Feularde
-RD31
-91770 Saint-Vrain
-GPS : lat 48.546043 et Long 2.349031
+- lieu dit de la Feularde
+- RD31
+- 91770 Saint-Vrain
+- GPS : 
+	- lat 48.546043
+	- Long 2.349031
 
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/map.jpg)
 

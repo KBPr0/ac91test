@@ -48,6 +48,8 @@ RD31
 91770 Saint-Vrain
 GPS : lat 48.546043 et Long 2.349031
 
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/map.jpg)
+
 
 <!-- ## Sous-titre
 

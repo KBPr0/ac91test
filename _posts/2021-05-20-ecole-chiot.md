@@ -18,7 +18,11 @@ sidebar:
 
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/ecole-chiot1.jpg){: .align-left} Le chiot doit absolument faire certaines acquisitions avant l'âge de 6 mois :
+<figure style="width: 400px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ecole-chiot1.jpg" alt="">
+</figure> 
+
+Le chiot doit absolument faire certaines acquisitions avant l'âge de 6 mois :
 sociabilité, hiérarchie, éducation de base.<br>
 L'école du chiot c'est la classe maternelle (de 2 à 6 mois),
 On apprend à notre nouveau compagnon à :
@@ -35,7 +39,7 @@ on ignore les mauvais comportements (pas de pénalisation de la bêtise) et
 on récompense ce qui est bien. Dès les premières leçons, le chiot aura compris :
 "J'ai bien travaillé, je suis récompensé".<br>
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ecole-chiot2.jpg" alt="">
 </figure> 
 

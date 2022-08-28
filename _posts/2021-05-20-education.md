@@ -18,6 +18,10 @@ sidebar:
 
 ---
 
+<br>
+&nbsp;
+<br>
+
 <!-- <figure style="width: 400px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ecole-chiot1.jpg" alt="">
 </figure>  -->

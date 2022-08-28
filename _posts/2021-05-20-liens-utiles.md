@@ -19,7 +19,7 @@ sidebar:
 
 <div class="notice--success" markdown="1">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/mairie.png){: .align-left} 
-<h3 class="no_toc"><i class="fas fa-building-columns"></i> Mairie de Saint-Vrain</h3>
+<h3 class="no_toc"><i class="fas fa-building"></i> Mairie de Saint-Vrain</h3>
 <br>
 <br>
 [Accéder](#"http://www.saint-vrain91.fr/"){: .btn .btn--inverse}

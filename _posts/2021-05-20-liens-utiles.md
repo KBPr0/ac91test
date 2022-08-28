@@ -24,9 +24,10 @@ sidebar:
 
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/notre-club-1.jpg){: .align-left} L'Amicale Canine 91 est une association loi 1901 
-composée essentiellement de bénévoles.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/notre-club-1.jpg){: .align-left} 
 <h4 class="no_toc"><i class="fas fa-lightbulb"></i> Tip</h4>
+L'Amicale Canine 91 est une association loi 1901 composée essentiellement de bénévoles.
+
 <br>
 <br>
 <br>

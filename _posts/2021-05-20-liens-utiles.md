@@ -36,8 +36,7 @@ sidebar:
 <br>
 <br>
 
-[Accéder](#http://www.saint-vrain91.fr/){: .btn .btn--primary}
-<br>
+[Accéder](#http://www.saint-vrain91.fr/){: .btn .btn--primary} 
 [Accéder](#http://www.saint-vrain91.fr/){: .btn .btn--large}
 
 </div>

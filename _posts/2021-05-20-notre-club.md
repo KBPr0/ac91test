@@ -45,12 +45,13 @@ en priorité, tous les chiots agés de 2 à 4 mois et demi à la date de leur ad
 <br>
 ## Localisation
 
-Notre terrain se situe : 	- lieu dit de la Feularde
-							- RD31
-							- 91770 Saint-Vrain
-							- GPS : 
-								- lat 48.546043
-								- Long 2.349031
+Notre terrain se situe : 	
+- lieu dit de la Feularde
+- RD31
+- 91770 Saint-Vrain
+- GPS : 
+	- lat 48.546043
+	- Long 2.349031
 
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/map.jpg)
 

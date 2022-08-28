@@ -28,7 +28,7 @@ Voir notre réglement interieur : [cliquer ici]({{ site.url }}{{ site.baseurl }}
 ## Nos activités
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/notre-club-2.jpg){: .align-left} L'essentiel de nos activités repose sur l'éducation 
-par les méthodes positives axées sur Le Clicker Training. A l'école du chiot nous accueillons les chiots à partir de 2 mois et jusqu'à 4 mois et demi. 
+par les méthodes positives axées sur Le Clicker Training. A l'école du chiot nous accueillons les chiots à partir de 2 mois et jusqu'à *4 mois et demi*. 
 L'agility et l'obé Rythmée font partie intégrante de notre éducation.
 
 ## Quand sommes nous ouverts ?

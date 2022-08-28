@@ -34,6 +34,8 @@ sidebar:
 <br>
 <br>
 <br>
+<br>
+<br>
 [Accéder](http://www.scc.asso.fr/){: .btn .btn--inverse}
 <br>
 
@@ -42,8 +44,6 @@ sidebar:
 <div class="notice--success" markdown="1">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/scif.jpg){: .align-left} 
 <h3 class="no_toc">Société canine de l'Île-de-France</h3>
-<br>
-<br>
 <br>
 [Accéder](http://www.sc-if.org/){: .btn .btn--inverse}
 <br>
@@ -65,8 +65,7 @@ sidebar:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/fci.jpg){: .align-left} 
 <h3 class="no_toc">Fédération Cynologique Internationale</h3>
 <br>
-<br>
-<br>
+
 [Accéder](https://www.fci.be/fr/){: .btn .btn--inverse}
 <br>
 
@@ -75,9 +74,7 @@ sidebar:
 <div class="notice--success" markdown="1">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/royalcanin.jpg){: .align-left} 
 <h3 class="no_toc">Royal Canin</h3>
-<br>
-<br>
-<br>
+
 [Accéder](http://www.royalcanin.fr/){: .btn .btn--inverse}
 <br>
 

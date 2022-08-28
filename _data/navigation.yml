@@ -22,6 +22,8 @@ docs:
         url: /encadrement/
       - title: "Les adhésions"
         url: /tarifs-adhesions/
+      - title: "Les horaires"
+        url: /horaires/
       - title: "Nous contacter"
         url: /contact/
       - title: "Liens utiles"

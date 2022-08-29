@@ -3,7 +3,7 @@ title: "Un concours international de dog dancing à Saint-Vrain"
 date: 2021-05-20
 permalink: /un-concours-international-de-dog-dancing-à-saint-vrain/
 classes: wide
-# categories: 
+categories: concours
 # tags: 
 # header:
 #   image: ""

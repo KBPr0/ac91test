@@ -26,15 +26,15 @@ sidebar:
 &nbsp;
 <br>
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/obe1.jpg){: .align-right} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/obe1.jpg){: .align-left} 
 
-Il est prévu pour dimanche 15 avril 2018.  
-<br>      
+Il est prévu pour dimanche 15 avril 2018.      
 - voir l'affiche en cliquant [ici](https://ac91.org/images/les-concours/dog_dancing-2018/concours_dogdancing_st-vrain.jpg)
 <br>
 - voir l'invitation en cliquant [ici](https://ac91.org/images/les-concours/dog_dancing-2018/invitation_obe_2018409.jpg)
 <br>
+
 Attention, les engagements se font en ligne sur [ce lien](https://sportscanins.fr/calendrier/concours_info.php?IdConcours=4387)
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/obe2.jpg){: .align-left} 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/obe2.jpg){: .align-right} 

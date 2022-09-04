@@ -8,5 +8,3 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
-
-Les concours

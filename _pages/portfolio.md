@@ -1,10 +1,12 @@
 ---
-title: Portfolio
+title: Concours
 layout: collection
-permalink: /portfolio/
+permalink: /concours/
 collection: portfolio
 entries_layout: grid
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 
-Sample document listing for the collection `_portfolio`.
+Les concours

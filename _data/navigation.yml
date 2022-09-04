@@ -31,7 +31,7 @@ docs:
   - title: "La vie du club"
     children:
       - title: "Les concours"
-        url: /portfolio/
+        url: /concours/
       - title: "Journal des Truffes"
         url: /journal-des-truffes/
       - title: "La vie sur le terrain"

@@ -1,5 +1,5 @@
 ---
-title: Concours
+title: Les concours
 layout: collection
 permalink: /concours/
 collection: concours
@@ -8,3 +8,6 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
+<br>
+&nbsp;
+<br>

@@ -1,9 +1,13 @@
 ---
 title: "Un concours international de dog dancing à Saint-Vrain"
 date: 2021-05-20
-permalink: /un-concours-international-de-dog-dancing-à-saint-vrain/
-classes: wide
-categories: concours
+excerpt: "Le dog dancing (danse avec ton chien) est une discipline ludique qui se pratique en musique et qui allie obéissance et complicité avec son compagnon à 4 pattes."
+header:
+  image: /assets/images/dd1.jpg
+  teaser: assets/images/dd1.jpg
+# permalink: /un-concours-international-de-dog-dancing-à-saint-vrain/
+# classes: wide
+# categories: concours
 # tags: 
 # header:
 #   image: ""

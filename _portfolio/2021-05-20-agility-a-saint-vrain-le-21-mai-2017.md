@@ -1,9 +1,13 @@
 ---
 title: "agility à Saint Vrain le 21 mai 2017"
 date: 2021-05-20
-permalink: /agility-a-saint-vrain-le-21-mai-2017/
-classes: wide
-categories: concours
+excerpt: "A l'occasion de notre concours du 21 mai nous avons fêté la retraite de Dana..."
+header:
+  image: /assets/images/agi210517-1.jpg
+  teaser: assets/images/agi210517-1.jpg
+# permalink: /agility-a-saint-vrain-le-21-mai-2017/
+# classes: wide
+# categories: concours
 # tags: 
 # header:
 #   image: ""

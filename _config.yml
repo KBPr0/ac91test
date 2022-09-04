@@ -124,7 +124,7 @@ collections:
   # pets:
     # output: true
     # permalink: /:collection/:path/
-  portfolio:
+  concours:
     output: true
     permalink: /:collection/:path/
 
@@ -154,10 +154,10 @@ defaults:
     values:
       sidebar:
         nav: "docs"
-  # _portfolio
+  # _concours
   - scope:
       path: ""
-      type: portfolio
+      type: concours
     values:
       layout: single
       author_profile: false

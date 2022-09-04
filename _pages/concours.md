@@ -2,7 +2,7 @@
 title: Concours
 layout: collection
 permalink: /concours/
-collection: portfolio
+collection: concours
 entries_layout: grid
 classes: wide
 sidebar:

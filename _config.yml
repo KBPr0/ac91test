@@ -127,6 +127,14 @@ collections:
   concours:
     output: true
     permalink: /:collection/:path/
+    
+  truffes:
+    output: true
+    permalink: /:collection/:path/
+    
+  terrain:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts

@@ -1,8 +1,7 @@
 ---
 title: "Orangette au Concours de Dog Dancing Photos en bas de page"
 date: 2021-05-20
-excerpt: "Bonjour à toutes les truffes, je m’appelle Orangette Espiègle et j’ai participé pour 
-la première fois à un concours de Dog dancing le 23 février 2020 à Saint-Vrain, notre... "
+excerpt: "Bonjour à toutes les truffes, je m’appelle Orangette Espiègle et j’ai participé pour la première fois à un concours de Dog dancing le 23 février 2020 à Saint-Vrain, notre... "
 header:
   # image: /assets/images/agi210517-1.jpg
   teaser: assets/images/orangette.jpg
@@ -28,7 +27,6 @@ sidebar:
 <br>
 
 
-## Bravo à tous les participants
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/orangette.jpg){: .align-left} 
 

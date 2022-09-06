@@ -54,22 +54,12 @@ Mon copain Larsouille passe en ensuite dans les débutants, toujours aussi craqu
 
 Une mention particulière à Lucie et Orgoun qui ont fait pleurer la moitié de notre club avec une très belle complicité. J’adorerai avoir une petite maîtresse comme Lucie !
 
-<br>
-
 Un très beau spectacle avec des niveaux avancés impressionnants (je savais même pas qu’on pouvait faire tout ça !) et pour une fois, nous avions des spectateurs : une maison de retraire avait emmené une quinzaine de pensionnaires. Monsieur le Maire et Emilia Monteiro sont venus nous voir comme tous le ans et un journaliste du Républicain est même venu interviewer ma Môman ! On espère que cela va faire boule de neige et que l’an prochain, nous toucherons encore plus de personnes.
-
-<br>
 
 Le couple maître/chien du jour : Fenouil,  le chihuahua avec notre copain Gérard venu de champagne !
 
-<br>
-
 Tout le monde était très content : chaque concurrent a aidé notre équipe à ranger la salle et est reparti avec un petit souvenir de cette journée magnifique. Merci encore à notre commune de nous permettre de vivre de si beaux moment et de partager notre discipline.
 
-<br> 
-
 Rendez-vous maintenant à notre concours d’agility le 17 mai. Je sens que ça va me faire très envie…
-
-<br>
 
 Votre reporter en herbe : Orangette Espiègle

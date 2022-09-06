@@ -1,7 +1,7 @@
 ---
 title: La journal des truffes
 layout: collection
-permalink: /journal-des-truffes/
+permalink: /truffes/
 collection: truffes
 entries_layout: grid
 classes: wide

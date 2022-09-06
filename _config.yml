@@ -162,6 +162,24 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      
+  # _truffes
+  - scope:
+      path: "_truffes"
+      type: truffes
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
+  # _terrain
+  - scope:
+      path: "_terrain"
+      type: terrain
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid

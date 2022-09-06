@@ -156,7 +156,7 @@ defaults:
         nav: "docs"
   # _concours
   - scope:
-      path: ""
+      path: "_concours"
       type: concours
     values:
       layout: single

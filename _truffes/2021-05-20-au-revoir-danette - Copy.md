@@ -1,5 +1,5 @@
 ---
-title: "Au revoir DANETTE"
+title: "Au revoir DANETTE 2"
 date: 2021-05-20
 excerpt: "Je viens de perdre mon amie elle était un peu plus vieille que moi "on ne donne pas notre âge entre filles" J'ai commencé l'Agility quelque temps après elle. J’étais venue la voir sur son..."
 header:

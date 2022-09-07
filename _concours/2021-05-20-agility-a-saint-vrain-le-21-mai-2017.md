@@ -1,5 +1,5 @@
 ---
-title: "agility à Saint Vrain le 21 mai 2017"
+title: "Agility à Saint Vrain le 21 mai 2017"
 date: 2021-05-20
 excerpt: "A l'occasion de notre concours du 21 mai nous avons fêté la retraite de Dana..."
 header:

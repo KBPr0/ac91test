@@ -47,4 +47,5 @@ Les photos qui illustrent cet article sont de Romain (le fils de d'Aurélie et d
 
 <br>
 Pour voir la video de la 1ere manche Agility : cliquer [ici](https://youtu.be/_FdBqYYWL-U)
+<br>
 Pour voir la video de la 2ème manche Jumping : cliquer [ici](https://youtu.be/CNiWj90gi7M)

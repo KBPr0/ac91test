@@ -44,5 +44,7 @@ Une journée pluvieuse ou même de la grêle a été de la partie ce qui n'a pas
 Au final David et Elwind sont champions Régionaux en catégorie B 2èmè degré et qualifiés pour participer au Championnat de France d'Agility des 11 et 12 juin prochain.
 Ils seront, dans cette catégorie, les seuls qualifiés de l'Ile de France. FELICITATIONS ! ! ! !
 Les photos qui illustrent cet article sont de Romain (le fils de d'Aurélie et de David) un photographe en herbe qui se lance..
+
+<br>
 Pour voir la video de la 1ere manche Agility : cliquer [ici](https://youtu.be/_FdBqYYWL-U)
 Pour voir la video de la 2ème manche Jumping : cliquer [ici](https://youtu.be/CNiWj90gi7M)

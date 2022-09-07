@@ -31,4 +31,4 @@ Je viens de perdre mon amie elle était un peu plus vieille que moi "on ne donne
 Ella
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/danette2.jpg){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/danette2.jpg){: .align-left}

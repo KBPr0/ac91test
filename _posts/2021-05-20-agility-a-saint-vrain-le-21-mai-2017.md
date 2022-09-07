@@ -15,23 +15,24 @@ categories: concours
 # toc_sticky: true
 sidebar:
   nav: "docs"
-
 ---
 
 <br>
 &nbsp;
 <br>
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/agi210517-1.jpg){: .align-left} 
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/agi210517-2.jpg){: .align-left} 
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/agi210517-3.jpg){: .align-left} 
-
-
 A l'occasion de notre concours du 21 mai nous avons fêté la retraite de Dana et la réussite de Phiphi qui remporte           
 le trophée Ichka-Dagobert
 
 <br>
+
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/agi210517-1.jpg){: .align-left} 
+<br>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/agi210517-2.jpg){: .align-left} 
+<br>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/agi210517-3.jpg){: .align-left} 
+
+
 
 [Diaporama](http://www.kizoa.fr/Montage-Video/d119741008k5895526o2l1/concours-dagility-de-saint-vrain-2017)

@@ -1,5 +1,5 @@
 ---
-title: "agility à Saint Vrain le 21 mai 2017"
+title: "Agility à Saint Vrain le 21 mai 2017"
 date: 2021-05-20
 permalink: /agility-a-saint-vrain-le-21-mai-2017/
 classes: wide

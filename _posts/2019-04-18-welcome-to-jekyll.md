@@ -65,14 +65,15 @@ gallery:
 
 <figure>
 <img src="/assets/images/chienoel.jpg" alt="this is a placeholder image">
-	<figcaption>
+<!-- 	<figcaption>
+
+	</figcaption> -->
+</figure>
+
 	Le club sera fermé les 24 et 31 décembre. 
 	Réouverture le 7 janvier. 
 
 	Bonnes fêtes de fin d’année à tous. 
-	</figcaption>
-</figure>
-
 
 {% include feature_row %}
 {% include gallery %}

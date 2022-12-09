@@ -8,7 +8,7 @@ header:
   image: /assets/images/cyber-security-gdpr-mod-1.jpg
   caption: "Image by: [**TheDigitalArtist**](https://pixabay.com/users/TheDigitalArtist-202249/)"
 ---
-This privacy policy ("policy") will help you understand how Github and AMICALE CANINE 91 DE SAINT VRAIN ("us", "we", "our") use and protect the data you provide to us when you visit and use [kbpr0.github.io/ac91test/](https://kbpr0.github.io/ac91test/) ("website").
+This privacy policy ("policy") will help you understand how Github and AMICALE CANINE 91 DE SAINT VRAIN ("us", "we", "our") use and protect the data you provide to us when you visit and use [ac91.fr](http://ac91.fr) ("website").
 
 We reserve the right to change this policy at any given time. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this website page.
 

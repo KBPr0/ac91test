@@ -72,6 +72,9 @@ Le club sera fermé les 24 et 31 décembre.
 Réouverture le 7 janvier. 
 <br>
 Bonnes fêtes de fin d’année à tous. 
+<br>
+&nbsp;
+<br>
 
 {% include feature_row %}
 {% include gallery %}

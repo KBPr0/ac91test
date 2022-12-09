@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /home/
-hidden: true
+<!-- hidden: true -->
 header:
   #overlay_color: "#5e616c"
   #overlay_image: /assets/images/danette_4_upscaled_cartoon.jpg

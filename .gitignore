@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 Gemfile.lock
 TO DO LIST.docx
+*.docx

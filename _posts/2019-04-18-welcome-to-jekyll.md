@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 date: 2019-04-18T15:34:30-04:00
-layout: home
+layout: single
 classes: wide
 permalink: /
 #categories:

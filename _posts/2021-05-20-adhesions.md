@@ -1,6 +1,6 @@
 ---
 title: "Montant des adhésions à l'amicale canine 91"
-date: 2021-11-19
+date: 2023-01-09
 permalink: /tarifs-adhesions/
 classes: wide
 # categories: 

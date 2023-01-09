@@ -16,5 +16,8 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
+<br>
+&nbsp;
+<br>
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/tarifs2023.png)
 {:class="img-responsive"}

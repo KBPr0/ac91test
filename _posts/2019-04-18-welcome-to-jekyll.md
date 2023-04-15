@@ -64,12 +64,12 @@ gallery:
 ---
 
 <figure>
-<img src="/assets/images/chienewyear.jpg" alt="this is a placeholder image">
+<img src="/assets/images/paques.jpg" alt="this is a placeholder image">
 <!-- 	<figcaption>
 	</figcaption> -->
 </figure>
 
-Tous nos meilleurs voeux pour cette nouvelle année. 
+On espère que vous avez fait le plein de chocolats !
 <br>
 &nbsp;
 <br>

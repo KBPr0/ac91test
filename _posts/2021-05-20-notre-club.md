@@ -23,7 +23,7 @@ sidebar:
 composée essentiellement de bénévoles.
 
 Pour consulter nos statuts : [cliquer ici]({{ site.url }}{{ site.baseurl }}/assets/statuts-ac91-definitif-avril2016.pdf) <br>
-Voir notre réglement interieur : [cliquer ici]({{ site.url }}{{ site.baseurl }}/assets/Reglement-interieur-ac91-definitif-avril2016.pdf)
+Voir notre réglement interieur : [cliquer ici]({{ site.url }}{{ site.baseurl }}/assets/reglement-interieur-ac91-v4.pdf)
 
 ## Nos activités
 

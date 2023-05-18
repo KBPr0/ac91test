@@ -64,12 +64,12 @@ gallery:
 ---
 
 <figure>
-<img src="/assets/images/paques.jpg" alt="this is a placeholder image">
+<img src="/assets/images/maydog.png" alt="this is a placeholder image">
 <!-- 	<figcaption>
 	</figcaption> -->
 </figure>
 
-On espère que vous avez fait le plein de chocolats !
+En mai, faites ce qu'il lui plaît !
 <br>
 &nbsp;
 <br>

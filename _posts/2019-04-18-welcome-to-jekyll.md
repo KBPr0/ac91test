@@ -69,7 +69,7 @@ gallery:
 	</figcaption> -->
 </figure>
 
-En mai, faites ce qu'il lui plaît !
+En juin, profite de ton chien !
 <br>
 &nbsp;
 <br>

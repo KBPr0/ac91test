@@ -69,7 +69,7 @@ gallery:
 	</figcaption> -->
 </figure>
 
-En juin, profite de ton chien !
+Bonnes vacances !
 <br>
 &nbsp;
 <br>
@@ -77,3 +77,4 @@ En juin, profite de ton chien !
 {% include feature_row %}
 {% include gallery %}
 
+0160586073

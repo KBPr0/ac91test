@@ -69,7 +69,7 @@ gallery:
 	</figcaption> -->
 </figure>
 
-Bonnes vacances !
+Bonne rentrée !
 <br>
 &nbsp;
 <br>

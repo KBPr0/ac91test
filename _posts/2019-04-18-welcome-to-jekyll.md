@@ -63,7 +63,7 @@ gallery:
     title: "dog-dancing"
 ---
 
-<figure style="<!-- display: table; -->
+<figure style="display: table;
   margin-right: auto;
   margin-left: auto;
   width:345px;
@@ -74,7 +74,7 @@ gallery:
   position: absolute;
 <!--   bottom: 0;
   left: 0; -->
-  text-align: left;
+  text-align: right;
   padding: 15px;
   font-style: oblique;
   font-size: smaller;

@@ -65,7 +65,8 @@ gallery:
 
 <figure>
 <img src="/assets/images/HalloweenDog.png" alt="HalloweenDog">
-<figcaption> HalloweenDog </figcaption>
+<!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
+<figcaption> <a rel="nofollow" class="external text" href="www.google.fr">Halloween Dog</a>" de <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/">Ted Murphy</a> sous licence <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
 </figure>
 
 Des friandises ou un sort ?

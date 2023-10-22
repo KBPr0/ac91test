@@ -65,8 +65,7 @@ gallery:
 
 <figure>
 <img src="/assets/images/HalloweenDog.png" alt="HalloweenDog">
-<!-- 	<figcaption>
-	</figcaption> -->
+<figcaption> HalloweenDog </figcaption>
 </figure>
 
 Des friandises ou un sort ?

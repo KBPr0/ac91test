@@ -35,7 +35,7 @@ L'agility et l'obé Rythmée font partie intégrante de notre éducation.
 ## Quand sommes nous ouverts ?
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/notre-club-3.jpg){: .align-left} Le club est ouvert de septembre à juin, le samedi 
-après-midi pour l'ensemble des cours. Renseignements et accueil des nouveaux membres le samedi à 15 heures. 
+après-midi pour l'ensemble des cours. Renseignements et accueil des nouveaux membres : veuillez [nous contacter]({{ site.url }}{{ site.baseurl }}/contact/). 
 <br>
 <br>
 Détail des horaires : [cliquer ici]({{ site.url }}{{ site.baseurl }}/horaires/)

@@ -63,9 +63,11 @@ gallery:
     title: "dog-dancing"
 ---
 
-<figure style="position: relative;  display: table;
+<figure style="<!-- display: table; -->
   margin-right: auto;
-  margin-left: auto;width:345px;height:512px;">
+  margin-left: auto;
+  width:345px;
+  height:512px;">
 <img src="/assets/images/HalloweenDog.jpg" alt="HalloweenDog">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
 <figcaption style="  color: white;

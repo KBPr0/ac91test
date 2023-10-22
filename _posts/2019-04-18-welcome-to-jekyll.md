@@ -74,7 +74,7 @@ gallery:
   padding: 15px;
   font-style: oblique;
   font-size: smaller;
-  mix-blend-mode: soft-light;"> <a rel="nofollow" class="external text" href="www.google.fr">Halloween Dog</a>" de <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/">Ted Murphy</a> sous licence <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 2.0</a></figcaption>
+  mix-blend-mode: soft-light;"> <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/8132389265/">Halloween Dog</a> de <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/">Ted Murphy</a> sous licence <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 2.0</a></figcaption>
 </figure>
 
 Des friandises ou un sort ?

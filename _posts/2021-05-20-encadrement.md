@@ -41,9 +41,6 @@ encadrement:
   - image_path: /assets/images/encadrement/encadrement8.png
     alt: "encadrement 8"
     title: "encadrement"
-  - image_path: /assets/images/encadrement/encadrement9.png
-    alt: "encadrement 9"
-    title: "encadrement"
 ---
 
 {% include gallery id="encadrement" layout="half" %}

@@ -1,6 +1,6 @@
 ---
 title: "Encadrement"
-date: 2023-10-23
+date: 2023-10-22
 permalink: /encadrement/
 classes: wide
 # categories: 

@@ -76,7 +76,7 @@ gallery:
   bottom: 0;
   left: 0;
   right: 0;
-  text-align: right;
+  text-align: left;
   font-size: 15px;
   font-style: italic;
   line-height: 1.5;

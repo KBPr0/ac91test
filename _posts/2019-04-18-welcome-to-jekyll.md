@@ -74,7 +74,7 @@ gallery:
   position: absolute;
 <!--   bottom: 0;
   left: 0; -->
-  text-align: right;
+  text-align: left;
   padding: 15px;
   font-style: oblique;
   font-size: smaller;

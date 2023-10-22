@@ -63,21 +63,22 @@ gallery:
     title: "dog-dancing"
 ---
 
-<figure style="display: table;
-  margin-right: auto;
-  margin-left: auto;
-  width:345px;
-  height:512px;">
+<figure style="  display: flex;
+  flex-direction: column;
+  margin: 0;
+  position: relative;">
 <img src="/assets/images/HalloweenDog.jpg" alt="HalloweenDog">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
-<figcaption style="  color: white;
-  position: absolute;
+<figcaption style="  position: absolute;
   bottom: 0;
   left: 0;
+  right: 0;
   text-align: right;
-  padding: 15px;
-  font-style: oblique;
-  font-size: smaller;
+  font-size: 22px;
+  font-style: italic;
+  line-height: 1.5;
+  color: #777;
+  padding-right: 35px;
   mix-blend-mode: soft-light;"> <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/8132389265/">Halloween Dog</a> de <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/">Ted Murphy</a> sous licence <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 2.0</a></figcaption>
 </figure>
 

@@ -64,12 +64,12 @@ gallery:
 ---
 
 <figure>
-<img src="/assets/images/maydog.png" alt="this is a placeholder image">
+<img src="/assets/images/HalloweenDog.jpg" alt="this is a placeholder image">
 <!-- 	<figcaption>
 	</figcaption> -->
 </figure>
 
-Bonne rentrée !
+Des friandises ou un sort ?
 <br>
 &nbsp;
 <br>

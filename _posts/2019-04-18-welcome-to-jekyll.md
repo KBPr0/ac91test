@@ -81,7 +81,7 @@ gallery:
   font-style: italic;
   line-height: 1.5;
   color: #777;
-  padding-right: 35px;
+  padding-left: 25px;
   mix-blend-mode: soft-light;"> <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/8132389265/">Halloween Dog</a> de <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/">Ted Murphy</a> sous licence <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 2.0</a></figcaption>
 </figure>
 

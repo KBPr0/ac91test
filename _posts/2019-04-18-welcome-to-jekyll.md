@@ -64,7 +64,7 @@ gallery:
 ---
 
 <figure>
-<img src="/assets/images/HalloweenDog.jpg" alt="this is a placeholder image">
+<img src="/assets/images/HalloweenDog.png" alt="HalloweenDog">
 <!-- 	<figcaption>
 	</figcaption> -->
 </figure>

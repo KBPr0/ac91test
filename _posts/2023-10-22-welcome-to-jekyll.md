@@ -68,11 +68,12 @@ gallery:
   margin-right: auto;
   margin-left: auto;
   position: relative;
-  width:345px;
-  height:512px;">
-<img src="/assets/images/HalloweenDog.jpg" alt="HalloweenDog">
+<!--   width:345px;
+  height:512px; -->
+  ">
+<img src="/assets/images/chien-7.jpg" alt="chien-7">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
-<figcaption style="  position: absolute;
+<!-- <figcaption style="  position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
@@ -83,10 +84,12 @@ gallery:
   color: #777;
   padding-left: 15px;
   padding-right: 15px;
-  mix-blend-mode: soft-light;"> <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/8132389265/">Halloween Dog</a> de <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/">Ted Murphy</a> sous licence <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 2.0</a></figcaption>
+  mix-blend-mode: soft-light;"> <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/8132389265/">Halloween Dog</a> de <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/tedmurphy/">Ted Murphy</a> sous licence <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 2.0</a></figcaption> -->
 </figure>
 
-Des friandises ou un sort ?
+
+
+Sortez les parapluies !
 <br>
 &nbsp;
 <br>

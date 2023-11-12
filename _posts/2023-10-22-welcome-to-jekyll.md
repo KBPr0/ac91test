@@ -63,14 +63,16 @@ gallery:
     title: "dog-dancing"
 ---
 
-<figure style="display: flex;
+<!-- <figure style="display: flex;
   flex-direction: column;
   margin-right: auto;
   margin-left: auto;
   position: relative;
-<!--   width:345px;
-  height:512px; -->
-  ">
+  width:345px;
+  height:512px;
+  "> -->
+  
+<figure>
 <img src="/assets/images/chien-7.jpg" alt="chien-7">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
 <!-- <figcaption style="  position: absolute;

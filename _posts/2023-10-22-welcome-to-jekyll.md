@@ -95,6 +95,8 @@ Le club sera fermé les 23 et 30 décembre.
 <br>
 Reprise des cours le samedi 6 janvier. 
 <br>
+&nbsp;
+<br>
 Bonnes fêtes !
 <br>
 &nbsp;

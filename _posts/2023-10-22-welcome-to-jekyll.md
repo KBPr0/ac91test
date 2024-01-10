@@ -73,7 +73,7 @@ gallery:
   "> -->
   
 <figure>
-<img src="/assets/images/chienoel.jpg" alt="chienoel">
+<img src="/assets/images/chienewyear.jpg" alt="chienewyear">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
 <!-- <figcaption style="  position: absolute;
   bottom: 0;
@@ -91,13 +91,7 @@ gallery:
 
 
 
-Le club sera fermé les 23 et 30 décembre. 
-<br>
-Reprise des cours le samedi 6 janvier. 
-<br>
-&nbsp;
-<br>
-Bonnes fêtes !
+Bonne année !
 <br>
 &nbsp;
 <br>

@@ -1,6 +1,6 @@
 ---
 title: "Montant des adhésions à l'amicale canine 91"
-date: 2023-10-22
+date: 2024-01-01
 permalink: /tarifs-adhesions/
 classes: wide
 # categories: 
@@ -19,5 +19,5 @@ sidebar:
 <br>
 &nbsp;
 <br>
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/tarifs2023-24.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/tarifs2024.png)
 {:class="img-responsive"}

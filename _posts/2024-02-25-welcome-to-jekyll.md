@@ -98,7 +98,7 @@ Sortez les parapluies !
 
 <hr>
 
-<h1>Informations importantes</h1>
+<h2>Informations importantes</h2>
 
 - ⁠le 6 avril 2024 : matinée travaux au club 
 - ⁠le 21 avril 2024 : notre concours d’agility au club

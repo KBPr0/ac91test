@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-date: 2024-02-25
+date: 2024-05-04
 layout: single
 classes: wide
 permalink: /
@@ -100,8 +100,8 @@ Sortez les parapluies !
 
 <h3>Informations importantes</h3>
 
-- ⁠le 6 avril 2024 : matinée travaux au club 
-- ⁠le 21 avril 2024 : notre concours d’agility au club
+- Le club sera fermé le 18 mai
+
 
 &nbsp;
 <br>

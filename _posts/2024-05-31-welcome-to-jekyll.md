@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-date: 2024-05-04
+date: 2024-05-31
 layout: single
 classes: wide
 permalink: /
@@ -100,7 +100,16 @@ Sortez les parapluies !
 
 <h3>Informations importantes</h3>
 
-- Le club sera fermé le 18 mai
+- La fête du chien aura lieu le weekend du 13 et 14 juillet 2024
+
+
+<figure>
+<img src="/assets/images/feteduchien2024.jpg" alt="feteduchien2024">
+</figure>
+
+<figure>
+<img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
+</figure>
 
 
 &nbsp;

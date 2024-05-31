@@ -104,7 +104,7 @@ Sortez les parapluies !
 
 
 <figure>
-<a href="{{ site.url }}{{ site.baseurl }}">
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/feteduchien2024.jpg">
 <img src="/assets/images/feteduchien2024.jpg" alt="feteduchien2024">
 </a>
 </figure>

@@ -100,18 +100,19 @@ Sortez les parapluies !
 
 <h3>Informations importantes</h3>
 
-- La fête du chien aura lieu le weekend du 13 et 14 juillet 2024
+- La fête du chien aura lieu le weekend du 13 et 14 juillet 2024 sur le domaine de Montéclin
 
 
 <figure>
+<a href="{{ site.url }}{{ site.baseurl }}">
 <img src="/assets/images/feteduchien2024.jpg" alt="feteduchien2024">
+</a>
 </figure>
-
 <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
 </figure>
 
-
+<hr>
 &nbsp;
 <br>
 

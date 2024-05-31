@@ -109,9 +109,7 @@ Sortez les parapluies !
 </a>
 </figure>
 <figure>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/festichiens2024.jpg">
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
-</a>
 </figure>
 
 <hr>

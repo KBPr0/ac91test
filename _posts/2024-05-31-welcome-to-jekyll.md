@@ -78,7 +78,7 @@ gallery:
   margin-right: auto;
   margin-left: auto;
   position: relative;
-  width:345px;
+  width:700px;
 <!--   height:512px; -->
   ">
 <img src="/assets/images/rentree.jpg" alt="rentree">

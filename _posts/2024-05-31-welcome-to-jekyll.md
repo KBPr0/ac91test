@@ -101,7 +101,7 @@ C'est la rentrée !
 <h3>Informations importantes</h3>
 
 - Le plus grand évènement dédié aux chiens, Planète Chiens, aura lieu le weekend du 28 et 29 septembre 2024 au Grand Parquet Fontainebleau.
-Plus d'informations sur [planetechiens.com](https://planetechiens.com/)
+<br>Plus d'informations sur [planetechiens.com](https://planetechiens.com/)
 
 
 <figure>

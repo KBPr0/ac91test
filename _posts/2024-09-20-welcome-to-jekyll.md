@@ -123,6 +123,9 @@ C'est la rentrée !
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
 </figure>
  -->
+ 
+ 
+- Fermeture du club le 2 novembre
 <hr>
 &nbsp;
 <br>

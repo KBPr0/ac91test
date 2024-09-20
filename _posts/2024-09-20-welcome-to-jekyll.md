@@ -108,6 +108,8 @@ C'est la rentrée !
 
 <h3>Informations importantes</h3>
 
+- Fermeture du club le 2 novembre
+
 - Le plus grand évènement dédié aux chiens, Planète Chiens, aura lieu le weekend du 28 et 29 septembre 2024 au Grand Parquet Fontainebleau.
 <br>Plus d'informations sur [planetechiens.com](https://planetechiens.com/)
 
@@ -125,7 +127,7 @@ C'est la rentrée !
  -->
  
  
-- Fermeture du club le 2 novembre
+
 <hr>
 &nbsp;
 <br>

@@ -105,7 +105,9 @@ Plus d'informations sur [https://planetechiens.com/](https://planetechiens.com/)
 
 
 <figure>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/planetechiens.jpg">
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/images/planetechiens.jpg"> -->
+<a href="https://planetechiens.com/">
+
 <img src="/assets/images/planetechiens.jpg" alt="planetechiens">
 </a>
 </figure>

@@ -73,7 +73,7 @@ gallery:
   "> -->
   
 <figure>
-<img src="/assets/images/chien-7.jpg" alt="chien-7">
+<img src="/assets/images/rentree.jpg" alt="rentree">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
 <!-- <figcaption style="  position: absolute;
   bottom: 0;
@@ -91,7 +91,7 @@ gallery:
 
 
 
-Sortez les parapluies !
+C'est la rentrée !
 <br>
 &nbsp;
 <br>
@@ -100,18 +100,18 @@ Sortez les parapluies !
 
 <h3>Informations importantes</h3>
 
-- La fête du chien aura lieu le weekend du 13 et 14 juillet 2024 sur le domaine de Montéclin
+- Le plus grand évènement dédié aux chiens, Planète Chiens, aura lieu le weekend du 28 et 29 septembre 2024 au Grand Parquet Fontainebleau
 
 
 <figure>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/feteduchien2024.jpg">
-<img src="/assets/images/feteduchien2024.jpg" alt="feteduchien2024">
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/planetechiens.jpg">
+<img src="/assets/images/planetechiens.jpg" alt="planetechiens">
 </a>
 </figure>
-<figure>
+<!-- <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
 </figure>
-
+ -->
 <hr>
 &nbsp;
 <br>

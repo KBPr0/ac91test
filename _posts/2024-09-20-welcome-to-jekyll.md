@@ -81,7 +81,7 @@ gallery:
   width:550px;
 <!--   height:512px; -->
   ">
-<img src="/assets/images/rentree.jpg" alt="rentree">
+<img src="/assets/images/chienewyear.jpg" alt="rentree">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
 <!-- <figcaption style="  position: absolute;
   bottom: 0;
@@ -99,28 +99,18 @@ gallery:
 
 
 
-C'est la rentrée !
+Bonne année !
 <br>
 &nbsp;
 <br>
 
-<hr>
+<!-- <hr>
 
-<h3>Informations importantes</h3>
-
-- Fermeture du club le 2 novembre
-
-- Le plus grand évènement dédié aux chiens, Planète Chiens, aura lieu le weekend du 28 et 29 septembre 2024 au Grand Parquet Fontainebleau.
-<br>Plus d'informations sur [planetechiens.com](https://planetechiens.com/)
+<h3>Informations importantes</h3> -->
 
 
-<figure>
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/images/planetechiens.jpg"> -->
-<a href="https://planetechiens.com/">
 
-<img src="/assets/images/planetechiens.jpg" alt="planetechiens">
-</a>
-</figure>
+
 <!-- <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
 </figure>

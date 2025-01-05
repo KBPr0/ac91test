@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-date: 2024-09-20
+date: 2025-01-05
 layout: single
 classes: wide
 permalink: /
@@ -78,7 +78,7 @@ gallery:
   margin-right: auto;
   margin-left: auto;
   position: relative;
-  width:550px;
+  width:800px;
 <!--   height:512px; -->
   ">
 <img src="/assets/images/chienewyear.jpg" alt="rentree">

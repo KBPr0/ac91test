@@ -114,7 +114,10 @@ En mai, fais ce qu'il te plaît !
 - Plus d'accueil après le 12 juillet. 
 &nbsp;
 <br>
-- Le club fermera ses portes le 25 juillet. En revanche il y aura cours jusqu'au 28 juillet pour les chiots.
+- Le club fermera ses portes le 25 juillet. 
+&nbsp;
+<br>
+En revanche il y aura cours jusqu'au 28 juillet pour les chiots.
 &nbsp;
 <br>
 - Réouverture du club : samedi 6 septembre

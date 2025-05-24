@@ -108,10 +108,10 @@ En mai, fais ce qu'il te plaît !
 
 <h3>Informations importantes</h3>
 
-*Plus d'accueil après le 12/07. 
+- Plus d'accueil après le 12/07. 
 &nbsp;
 <br>
-*Fermeture le 25/07.
+- Fermeture le 25/07.
 
 
 <!-- <figure>

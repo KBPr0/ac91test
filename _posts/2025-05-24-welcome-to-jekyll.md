@@ -108,10 +108,16 @@ En mai, fais ce qu'il te plaît !
 
 <h3>Informations importantes</h3>
 
-- Plus d'accueil après le 12/07. 
+- Dernier cours bleus/verts le 5 juillet.
 &nbsp;
 <br>
-- Fermeture le 25/07.
+- Plus d'accueil après le 12 juillet. 
+&nbsp;
+<br>
+- Le club fermera ses portes le 25 juillet. En revanche il y aura cours jusqu'au 28 juillet pour les chiots.
+&nbsp;
+<br>
+- Réouverture du club : samedi 6 septembre
 
 
 <!-- <figure>

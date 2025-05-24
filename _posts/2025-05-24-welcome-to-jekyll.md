@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-date: 2025-01-05
+date: 2025-05-24
 layout: single
 classes: wide
 permalink: /
@@ -81,7 +81,7 @@ gallery:
   width:800px;
 <!--   height:512px; -->
   ">
-<img src="/assets/images/chien-7.jpg" alt="chien-7">
+<img src="/assets/images/maydog.png" alt="maydog">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
 <!-- <figcaption style="  position: absolute;
   bottom: 0;
@@ -99,22 +99,23 @@ gallery:
 
 
 
-Sortez les parapluies !
+En mai, fais ce qu'il te plaît !
 <br>
 &nbsp;
 <br>
 
-<!-- <hr>
+<hr>
 
-<h3>Informations importantes</h3> -->
+<h3>Informations importantes</h3>
 
-
+Plus d'accueil après le 12/07. 
+Fermeture le 25/07.
 
 
 <!-- <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
-</figure>
- -->
+</figure> -->
+
  
  
 

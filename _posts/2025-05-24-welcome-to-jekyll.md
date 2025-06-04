@@ -84,7 +84,7 @@ gallery:
 <img src="/assets/images/presummerdog.jpg" alt="presummerdog">
 <!-- <figcaption> <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/8256206923/in/set-72157632200936657">Creative Commons 10th Birthday Celebration San Francisco</a>" by <a rel="nofollow" class="external text" href="http://www.flickr.com/photos/sixteenmilesofstring/">Timothy Vollmer</a> is licensed under <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption> -->
 <figcaption style="  position: absolute;
-  bottom: 40;
+  bottom: 20;
   left: 0;
   right: 0;
   text-align: left;
@@ -94,6 +94,7 @@ gallery:
   color: #777;
   padding-left: 15px;
   padding-right: 15px;
+  padding-bottom: 15px;
   mix-blend-mode: soft-light;"> <a rel="nofollow" class="external text" href="https://pxhere.com/fr/photo/270047">sun_mazama_pet_funny_pitbull_dog_sunglasses_americanstaffordshire</a> de Sheila Sund sous licence <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
 </figure>
 

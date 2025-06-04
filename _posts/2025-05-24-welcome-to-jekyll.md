@@ -94,6 +94,7 @@ gallery:
   color: #777;
   padding-left: 15px;
   padding-right: 15px;
+  padding-bottom: 15px;
   mix-blend-mode: soft-light;"> <a rel="nofollow" class="external text" href="https://pxhere.com/fr/photo/270047">sun_mazama_pet_funny_pitbull_dog_sunglasses_americanstaffordshire</a> de Sheila Sund sous licence <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
 </figure>
 

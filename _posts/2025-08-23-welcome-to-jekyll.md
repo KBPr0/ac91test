@@ -100,13 +100,15 @@ Nous esperons que vous avez passé (ou que vous passez) de bonnes vacances
 <br>
 &nbsp;
 <br>
-*samedi 30 août 2025*
+**samedi 30 août 2025**
 &nbsp;
 <br>
 rdv au club à 9h30
 &nbsp;
 <br>
 pour ceux qui veulent/peuvent venir nous aider
+&nbsp;
+<br>
 &nbsp;
 <br>
 pour ensuite reprendre les cours

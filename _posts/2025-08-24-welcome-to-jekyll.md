@@ -127,9 +127,9 @@ pour ceux qui veulent/peuvent
 <br>
 venir nous aider
 
-<figure>
+<!-- <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
-</figure>
+</figure> -->
 
  
  

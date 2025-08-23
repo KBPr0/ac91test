@@ -114,7 +114,7 @@ pour ceux qui veulent/peuvent venir nous aider
 pour ensuite reprendre les cours
 &nbsp;
 <br>
-SAMEDI 6 SEPTEMBRE 2025
+**SAMEDI 6 SEPTEMBRE 2025**
 &nbsp;
 <br>
 aux horaires habituels

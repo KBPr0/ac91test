@@ -107,6 +107,15 @@ rdv au club à 9h30
 &nbsp;
 <br>
 pour ceux qui veulent/peuvent venir nous aider
+&nbsp;
+<br>
+pour ensuite reprendre les cours
+&nbsp;
+<br>
+SAMEDI 6 SEPTEMBRE 2025
+&nbsp;
+<br>
+aux horaires habituels
 
 <!-- <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">

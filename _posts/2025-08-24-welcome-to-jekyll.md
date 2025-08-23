@@ -101,17 +101,17 @@ gallery:
 
 
 
-C'est la rentrée !!!!
+<!-- C'est la rentrée !!!!
 <br>
 Nous esperons que vous avez passé (ou que vous passez) de bonnes vacances
 &nbsp;
-<br>
+<br> -->
 
 <hr>
 
 <h3>Informations importantes</h3>
 
-<!-- - Afin de reprendre les cours dans de bonnes conditions, nous organisons une matinée travaux afin de remettre le club en état
+- Afin de reprendre les cours dans de bonnes conditions, nous organisons une matinée travaux afin de remettre le club en état
 &nbsp;
 <br>
 &nbsp;
@@ -125,11 +125,11 @@ rdv au club à 9h30
 pour ceux qui veulent/peuvent
 &nbsp;
 <br>
-venir nous aider -->
+venir nous aider
 
-<!-- <figure>
+<figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
-</figure> -->
+</figure>
 
  
  

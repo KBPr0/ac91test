@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-date: 2025-05-24
+date: 2025-08-24
 layout: single
 classes: wide
 permalink: /
@@ -101,8 +101,9 @@ gallery:
 
 
 
-Un avant-goût d'été
+C'est la rentrée !!!!
 <br>
+Nous esperons que vous avez passé (ou que vous passez) de bonnes vacances
 &nbsp;
 <br>
 
@@ -110,20 +111,21 @@ Un avant-goût d'été
 
 <h3>Informations importantes</h3>
 
-- Dernier cours bleus/verts le 5 juillet.
+- Afin de reprendre les cours dans de bonnes conditions, nous organisons une matinée travaux afin de remettre le club en état
 &nbsp;
 <br>
-- Plus d'accueil après le 12 juillet. 
 &nbsp;
 <br>
-- Le club fermera ses portes le 25 juillet. 
+samedi 30 août 2025
 &nbsp;
 <br>
-En revanche il y aura cours jusqu'au 28 juillet pour les chiots.
+rdv au club à 9h30
 &nbsp;
 <br>
-- Réouverture du club : samedi 6 septembre
-
+pour ceux qui veulent/peuvent
+&nbsp;
+<br>
+venir nous aider
 
 <!-- <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">

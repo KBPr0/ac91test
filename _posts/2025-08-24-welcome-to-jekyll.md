@@ -111,7 +111,7 @@ Nous esperons que vous avez passé (ou que vous passez) de bonnes vacances
 
 <h3>Informations importantes</h3>
 
-- Afin de reprendre les cours dans de bonnes conditions, nous organisons une matinée travaux afin de remettre le club en état
+<!-- - Afin de reprendre les cours dans de bonnes conditions, nous organisons une matinée travaux afin de remettre le club en état
 &nbsp;
 <br>
 &nbsp;
@@ -126,7 +126,7 @@ pour ceux qui veulent/peuvent
 &nbsp;
 <br>
 venir nous aider
-
+ -->
 <!-- <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
 </figure> -->

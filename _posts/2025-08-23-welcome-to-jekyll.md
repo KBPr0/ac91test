@@ -85,7 +85,6 @@ gallery:
 <br>
 &nbsp;
 </figure>
-
 C'est la rentrée !!!!
 <br>
 Nous esperons que vous avez passé (ou que vous passez) de bonnes vacances
@@ -101,7 +100,7 @@ Nous esperons que vous avez passé (ou que vous passez) de bonnes vacances
 <br>
 &nbsp;
 <br>
-samedi 30 août 2025
+*samedi 30 août 2025*
 &nbsp;
 <br>
 rdv au club à 9h30

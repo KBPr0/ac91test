@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-date: 2025-08-24
+date: 2025-08-23
 layout: single
 classes: wide
 permalink: /

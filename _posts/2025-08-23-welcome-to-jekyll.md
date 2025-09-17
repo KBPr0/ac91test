@@ -91,7 +91,7 @@ Nous esperons que vous avez passé (ou que vous passez) de bonnes vacances
 &nbsp;
 <br>
 
-<hr>
+<!-- <hr>
 
 <h3>Informations importantes</h3>
 
@@ -118,7 +118,7 @@ pour ensuite reprendre les cours
 &nbsp;
 <br>
 aux horaires habituels
-
+ -->
 <!-- <figure>
 <img src="/assets/images/festichiens2024.jpg" alt="festichiens2024">
 </figure> -->
